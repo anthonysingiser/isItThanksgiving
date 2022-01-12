@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/isItThanksgiving/static/css/main.a617e044.chunk.css",
+    "main.js": "/isItThanksgiving/static/js/main.32ab379e.chunk.js",
+    "main.js.map": "/isItThanksgiving/static/js/main.32ab379e.chunk.js.map",
+    "runtime-main.js": "/isItThanksgiving/static/js/runtime-main.6a688df1.js",
+    "runtime-main.js.map": "/isItThanksgiving/static/js/runtime-main.6a688df1.js.map",
+    "static/js/2.26ad889e.chunk.js": "/isItThanksgiving/static/js/2.26ad889e.chunk.js",
+    "static/js/2.26ad889e.chunk.js.map": "/isItThanksgiving/static/js/2.26ad889e.chunk.js.map",
+    "static/js/3.ce241a97.chunk.js": "/isItThanksgiving/static/js/3.ce241a97.chunk.js",
+    "static/js/3.ce241a97.chunk.js.map": "/isItThanksgiving/static/js/3.ce241a97.chunk.js.map",
+    "index.html": "/isItThanksgiving/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/isItThanksgiving/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.26ad889e.chunk.js.LICENSE.txt": "/isItThanksgiving/static/js/2.26ad889e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a688df1.js",
+    "static/js/2.26ad889e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.32ab379e.chunk.js"
+  ]
+}
