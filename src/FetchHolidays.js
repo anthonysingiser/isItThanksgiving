@@ -4,9 +4,9 @@ export default function FetchHolidays(props) {
     const [holidays, setHolidays] = useState('');
 
     useEffect(() => {
-        fetch('https://holidayapi.com/v1/holidays?&country=US&key=743e9839-3028-4c8d-8e7a-c4b5efdd47d1&year=2020')
+        fetch('https://holidayapi.com/v1/holidays?&country=US&key=743e9839-3028-4c8d-8e7a-c4b5efdd47d1&year=2021')
             .then((response) => response.json())
-            .then((data) => setHolidays(data.holidays[116].date))
+            .then((data) => setHolidays(data.holidays[115].date))
             .catch((console.log('holidays bad')));
     });
 
