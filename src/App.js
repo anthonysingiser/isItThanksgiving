@@ -3,7 +3,9 @@ import DateAndTime from './dateAndTime';
 
 function App() {
   return (
-    <DateAndTime/>
+    <center>
+      <DateAndTime/>
+    </center>
   );
 }
 
